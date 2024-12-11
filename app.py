@@ -12,7 +12,7 @@ ma = Marshmallow(app)
 def get_db_connection():
     db_name = "fitness_center_db"
     user = "root"
-    password = "Ago0#1!$"
+    password = "********"
     host = "127.0.0.1"
 
     try:
